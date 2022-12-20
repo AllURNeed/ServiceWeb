@@ -15,7 +15,7 @@ use App\Http\Controllers\front\FrontController;
 |
 */
 
-//
+
 
 
 // front end all routes
